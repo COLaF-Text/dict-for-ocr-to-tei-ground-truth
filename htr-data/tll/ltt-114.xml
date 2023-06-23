@@ -1,0 +1,3401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ltt-114.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT7512" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT7510" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT7509" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT7508" LABEL="MainZone:Entry#End" DESCRIPTION="block type MainZone:Entry#End"/><OtherTag ID="BT7507" LABEL="MainZone:Entry" DESCRIPTION="block type MainZone:Entry"/>
+    <OtherTag ID="LT2515" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2688"
+          HEIGHT="3384"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2688"
+                  HEIGHT="3384">
+        
+        <TextBlock HPOS="127"
+                   VPOS="105"
+                   WIDTH="81"
+                   HEIGHT="51"
+                   ID="eSc_textblock_0410549f"
+                   TAGREFS="BT7510">
+          <Shape><Polygon POINTS="201 105 208 148 135 156 127 120 154 105"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_35ac4010"
+                    TAGREFS="LT2515"
+                    BASELINE="133 137 208 141" 
+                    HPOS="131"
+                    VPOS="105"
+                    WIDTH="77"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="152 105 133 114 133 137 131 161 206 161 208 141 208 107 171 105 152 105"/></Shape>
+	    <String CONTENT="981"
+                    HPOS="131"
+                    VPOS="105"
+                    WIDTH="77"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="100"
+                   VPOS="173"
+                   WIDTH="1213"
+                   HEIGHT="2620"
+                   ID="eSc_textblock_9cf76a1a"
+                   TAGREFS="BT7508">
+          <Shape><Polygon POINTS="1313 173 1313 2793 100 2793 100 173"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6a50f3a1"
+                    TAGREFS="LT2515"
+                    BASELINE="135 219 1294 216" 
+                    HPOS="133"
+                    VPOS="193"
+                    WIDTH="1161"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1280 201 1262 201 1243 201 1224 201 1205 201 1186 201 1168 201 1149 201 1130 201 1111 201 1092 201 1074 201 1055 201 1036 201 1017 199 998 199 980 199 961 199 942 199 923 199 904 199 885 199 867 199 848 199 829 199 810 199 791 199 773 199 754 199 735 199 716 197 697 197 679 197 660 197 641 197 622 197 603 197 585 197 566 197 547 197 528 197 509 197 490 197 472 197 453 197 434 195 415 195 396 195 378 195 359 195 340 195 321 195 302 195 284 195 265 195 246 195 227 195 208 195 189 195 171 195 152 195 150 193 133 193 135 219 135 240 1292 235 1294 216 1290 201 1280 201"/></Shape>
+	    <String CONTENT="cubiculo) pudor; hinc simul exieris, -a protinus omnis absit, et in lecto"
+                    HPOS="133"
+                    VPOS="193"
+                    WIDTH="1161"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fb9fb35"
+                    TAGREFS="LT2515"
+                    BASELINE="137 255 1290 255" 
+                    HPOS="137"
+                    VPOS="229"
+                    WIDTH="1153"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="137 255 137 270 1288 272 1290 255 1290 229 137 229 137 255"/></Shape>
+	    <String CONTENT="crimina pone tuo. EPIST. Sapph. 47 placebam ... tunc praecipue, cum"
+                    HPOS="137"
+                    VPOS="229"
+                    WIDTH="1153"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcdd35c8"
+                    TAGREFS="LT2515"
+                    BASELINE="135 293 1286 287" 
+                    HPOS="133"
+                    VPOS="261"
+                    WIDTH="1153"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="135 293 135 312 1284 310 1286 287 1280 261 133 266 135 293"/></Shape>
+	    <String CONTENT="fit Amoris opus; tunc te plus solito -a nostra iuvabat. SEN. contr. 2, 7, 3"
+                    HPOS="133"
+                    VPOS="261"
+                    WIDTH="1153"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1196eabc"
+                    TAGREFS="LT2515"
+                    BASELINE="137 329 1290 325" 
+                    HPOS="135"
+                    VPOS="298"
+                    WIDTH="1155"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="137 329 137 344 1288 340 1290 325 1284 298 135 300 137 329"/></Shape>
+	    <String CONTENT="adversus sollicitatoris -am tuta matrona. SVET. Cal. 25, 3 Caesonia luxu¬"
+                    HPOS="135"
+                    VPOS="298"
+                    WIDTH="1155"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3701f36"
+                    TAGREFS="LT2515"
+                    BASELINE="137 364 1288 359" 
+                    HPOS="135"
+                    VPOS="334"
+                    WIDTH="1153"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="137 364 137 383 1286 381 1288 359 1282 334 135 338 137 364"/></Shape>
+	    <String CONTENT="riae ac -ae perditae. 36, 2 post concubitum recentibus adhuc -ae notis"
+                    HPOS="135"
+                    VPOS="334"
+                    WIDTH="1153"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe09d88b"
+                    TAGREFS="LT2515"
+                    BASELINE="137 400 1290 394" 
+                    HPOS="135"
+                    VPOS="370"
+                    WIDTH="1155"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="137 400 137 417 1288 417 1290 394 1284 370 135 374 137 400"/></Shape>
+	    <String CONTENT="reversus. APVL. met. 2, 17, 1 crinibus ... dissolutis ad hilarem -am in"
+                    HPOS="135"
+                    VPOS="370"
+                    WIDTH="1155"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_738e7e18"
+                    TAGREFS="LT2515"
+                    BASELINE="135 434 1286 430" 
+                    HPOS="133"
+                    VPOS="406"
+                    WIDTH="1153"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="135 434 135 451 1282 454 1286 430 1280 406 133 407 135 434"/></Shape>
+	    <String CONTENT="speciem Veneris. 7, 23, 1 propter luxuriem -amque amatoriam asini."
+                    HPOS="133"
+                    VPOS="406"
+                    WIDTH="1153"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93230d8d"
+                    TAGREFS="LT2515"
+                    BASELINE="137 471 1288 466" 
+                    HPOS="135"
+                    VPOS="441"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="137 471 137 486 1286 481 1288 466 1282 441 135 441 137 471"/></Shape>
+	    <String CONTENT="9, 5, 1 uxorcula ... postrema -a famigerabilis. TERT. nat. 2, 14, 9 Her¬"
+                    HPOS="135"
+                    VPOS="441"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0db56db"
+                    TAGREFS="LT2515"
+                    BASELINE="137 501 1290 505" 
+                    HPOS="135"
+                    VPOS="477"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="137 501 135 522 1288 522 1290 505 1288 481 137 477 137 501"/></Shape>
+	    <String CONTENT="cules ob -am venenis circumventus. coron. 14 1. 11 quid ... est in capite"
+                    HPOS="135"
+                    VPOS="477"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c92fa114"
+                    TAGREFS="LT2515"
+                    BASELINE="135 541 1286 537" 
+                    HPOS="133"
+                    VPOS="511"
+                    WIDTH="1153"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="135 541 135 562 1284 562 1286 537 1280 511 133 515 135 541"/></Shape>
+	    <String CONTENT="feminae corona quam formae lena, quam summae -ae nota. ieiun. 1"
+                    HPOS="133"
+                    VPOS="511"
+                    WIDTH="1153"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3109fe0a"
+                    TAGREFS="LT2515"
+                    BASELINE="137 579 1288 573" 
+                    HPOS="135"
+                    VPOS="547"
+                    WIDTH="1153"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="137 579 137 599 1286 594 1288 573 1282 547 135 552 137 579"/></Shape>
+	    <String CONTENT="p. 274, 10 pro dispositione membrorum ordo vitiorum; prior venter, et"
+                    HPOS="135"
+                    VPOS="547"
+                    WIDTH="1153"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b54eea9"
+                    TAGREFS="LT2515"
+                    BASELINE="137 612 1288 609" 
+                    HPOS="135"
+                    VPOS="586"
+                    WIDTH="1153"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="137 612 137 633 1286 633 1288 609 1282 586 135 588 137 612"/></Shape>
+	    <String CONTENT="statim cetera saginae substructa -a est; per edacitatem salacitas transit."
+                    HPOS="135"
+                    VPOS="586"
+                    WIDTH="1153"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_504ec0f5"
+                    TAGREFS="LT2515"
+                    BASELINE="137 648 1284 648" 
+                    HPOS="137"
+                    VPOS="622"
+                    WIDTH="1147"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="137 648 137 663 1282 667 1284 648 1284 622 137 622 137 648"/></Shape>
+	    <String CONTENT="6 p. 280, 10 (de homine epulis saginato) ad -am sapere (postea: lusum..."
+                    HPOS="137"
+                    VPOS="622"
+                    WIDTH="1147"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afb4329b"
+                    TAGREFS="LT2515"
+                    BASELINE="135 684 1290 684" 
+                    HPOS="135"
+                    VPOS="659"
+                    WIDTH="1155"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="135 684 135 705 1290 699 1290 684 1290 659 135 659 135 684"/></Shape>
+	    <String CONTENT="impudicum). 17 p. 296, 26 appendices ... gulae sunt -a atque luxuriae."
+                    HPOS="135"
+                    VPOS="659"
+                    WIDTH="1155"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d637499b"
+                    TAGREFS="LT2515"
+                    BASELINE="135 720 1288 714" 
+                    HPOS="133"
+                    VPOS="689"
+                    WIDTH="1155"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="135 720 135 742 1286 735 1288 714 1282 689 133 693 135 720"/></Shape>
+	    <String CONTENT="pudic. 17 p. 256, 5 in luxuriae et -ae et libidinis negotia. ITALA Gal. 5, 19"
+                    HPOS="133"
+                    VPOS="689"
+                    WIDTH="1155"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9aee4e9f"
+                    TAGREFS="LT2515"
+                    BASELINE="137 755 1290 752" 
+                    HPOS="135"
+                    VPOS="727"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="137 755 137 772 1288 768 1290 752 1284 727 135 729 137 755"/></Shape>
+	    <String CONTENT="(Tert. pudic. 17 p. 256, 13) fornicationem, immunditiam, -am (gr. ἀσέλ¬"
+                    HPOS="135"
+                    VPOS="727"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46a52cdf"
+                    TAGREFS="LT2515"
+                    BASELINE="137 791 1290 787" 
+                    HPOS="135"
+                    VPOS="763"
+                    WIDTH="1155"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="137 791 137 812 1288 808 1290 787 1284 763 135 765 137 791"/></Shape>
+	    <String CONTENT="γεια, codd. d g impudicitia, Cypr. testim. 3, 64 spurcitiae, Ambrosiast."
+                    HPOS="135"
+                    VPOS="763"
+                    WIDTH="1155"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53684e03"
+                    TAGREFS="LT2515"
+                    BASELINE="135 827 1292 827" 
+                    HPOS="135"
+                    VPOS="802"
+                    WIDTH="1157"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="135 827 135 844 1292 844 1292 827 1292 802 135 802 135 827"/></Shape>
+	    <String CONTENT="obscenitas, Vulg. luxuria). PORPH. Hor. carm. 3, 18, 1 Nympharum per"
+                    HPOS="135"
+                    VPOS="802"
+                    WIDTH="1157"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_001dd34a"
+                    TAGREFS="LT2515"
+                    BASELINE="137 862 1290 859" 
+                    HPOS="135"
+                    VPOS="830"
+                    WIDTH="1155"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="137 862 137 881 1288 881 1290 859 1284 830 135 836 137 862"/></Shape>
+	    <String CONTENT="-am ... fugientium sc. Paunos, ut magis illiciantur. CYPR. hab. virg. 19"
+                    HPOS="135"
+                    VPOS="830"
+                    WIDTH="1155"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c3712ca4"
+                    TAGREFS="LT2515"
+                    BASELINE="139 894 1290 898" 
+                    HPOS="137"
+                    VPOS="870"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="139 894 137 908 1286 915 1290 898 1288 874 139 870 139 894"/></Shape>
+	    <String CONTENT="-ae et petulantiae crimen (adeundi promiscuas balneas). SER. SAMM."
+                    HPOS="137"
+                    VPOS="870"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cafb68d0"
+                    TAGREFS="LT2515"
+                    BASELINE="135 932 1290 932" 
+                    HPOS="135"
+                    VPOS="908"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 932 135 949 1288 953 1290 932 1290 908 135 908 135 932"/></Shape>
+	    <String CONTENT="656 mobilis (sc. cinaedorum) hirsutas horret -a saetas. IVST. 1, 3, 2 cum"
+                    HPOS="135"
+                    VPOS="908"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44ebed7e"
+                    TAGREFS="LT2515"
+                    BASELINE="135 970 1290 964" 
+                    HPOS="133"
+                    VPOS="940"
+                    WIDTH="1157"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="135 970 135 988 1288 988 1290 964 1284 940 133 943 135 970"/></Shape>
+	    <String CONTENT="mollitia corporis et oculorum -a omnes feminas anteiret Sardanapalus"
+                    HPOS="133"
+                    VPOS="940"
+                    WIDTH="1157"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acfb982b"
+                    TAGREFS="LT2515"
+                    BASELINE="137 1005 1288 1000" 
+                    HPOS="135"
+                    VPOS="977"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="137 1005 137 1022 1286 1017 1288 1000 1282 977 135 981 137 1005"/></Shape>
+	    <String CONTENT="(cf. Ctesias 688 F 1 Jac. p. 444 apud Athenaeum τὰ λευκὰ ἐπαναβαλών"
+                    HPOS="135"
+                    VPOS="977"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4c423c3"
+                    TAGREFS="LT2515"
+                    BASELINE="137 1039 1286 1041" 
+                    HPOS="135"
+                    VPOS="1009"
+                    WIDTH="1151"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="137 1039 135 1050 1282 1058 1286 1041 1282 1009 137 1009 137 1039"/></Shape>
+	    <String CONTENT="τῶν ὀφθαλμων et sim. apud alios; an mero respectu impudicitiae? cf."
+                    HPOS="135"
+                    VPOS="1009"
+                    WIDTH="1151"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_867b1b99"
+                    TAGREFS="LT2515"
+                    BASELINE="142 1077 1290 1077" 
+                    HPOS="142"
+                    VPOS="1052"
+                    WIDTH="1148"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="142 1077 142 1090 1288 1096 1290 1077 1290 1052 142 1052 142 1077"/></Shape>
+	    <String CONTENT="p. 980, 9). AMBR. in psalm. 47, 8, 2 edomare carnis -am (HIER. vita"
+                    HPOS="142"
+                    VPOS="1052"
+                    WIDTH="1148"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_accbbfa4"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1109 1286 1112" 
+                    HPOS="133"
+                    VPOS="1077"
+                    WIDTH="1153"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="361 1079 342 1079 323 1079 304 1079 285 1079 267 1079 248 1079 229 1079 210 1079 191 1079 173 1079 154 1079 152 1077 135 1077 135 1109 133 1128 1284 1128 1286 1112 1284 1086 364 1079 361 1079"/></Shape>
+	    <String CONTENT="Malchi 3). RVFIN. Orig. in gen. 3, 6 p. 47, 4 qui ... in omnem -am pro¬"
+                    HPOS="133"
+                    VPOS="1077"
+                    WIDTH="1153"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94719733"
+                    TAGREFS="LT2515"
+                    BASELINE="137 1148 1286 1144" 
+                    HPOS="135"
+                    VPOS="1116"
+                    WIDTH="1151"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="137 1148 137 1169 1284 1167 1286 1144 1280 1116 135 1122 137 1148"/></Shape>
+	    <String CONTENT="ruit et per diversos ... pendet amplexus. Orig. in Ios. 13, 4 p. 374, 11"
+                    HPOS="135"
+                    VPOS="1116"
+                    WIDTH="1151"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a22be92"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1178 1288 1182" 
+                    HPOS="133"
+                    VPOS="1154"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 1178 133 1199 1286 1199 1288 1182 1286 1158 135 1154 135 1178"/></Shape>
+	    <String CONTENT="deus eradicat -am, pudicitiam plantat. TRACT. Pelag. 3 p. 37 evangelio¬"
+                    HPOS="133"
+                    VPOS="1154"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b84374c1"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1218 1290 1218" 
+                    HPOS="135"
+                    VPOS="1191"
+                    WIDTH="1155"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="135 1218 135 1240 1290 1235 1290 1218 1288 1191 135 1193 135 1218"/></Shape>
+	    <String CONTENT="rum fecunditatis casta -a (per allegoriam a quattuor coniugibus Iacob"
+                    HPOS="135"
+                    VPOS="1191"
+                    WIDTH="1155"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6cdcbcd"
+                    TAGREFS="LT2515"
+                    BASELINE="133 1253 1286 1250" 
+                    HPOS="131"
+                    VPOS="1225"
+                    WIDTH="1155"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="133 1253 133 1270 1282 1272 1286 1250 1280 1225 131 1227 133 1253"/></Shape>
+	    <String CONTENT="sumptam). al. -a quasi dea: DRAC. Romul. 10, 263 inter comites"
+                    HPOS="131"
+                    VPOS="1225"
+                    WIDTH="1155"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a1af204"
+                    TAGREFS="LT2515"
+                    BASELINE="137 1289 1290 1289" 
+                    HPOS="137"
+                    VPOS="1265"
+                    WIDTH="1153"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="137 1289 137 1304 1288 1308 1290 1289 1290 1265 137 1265 137 1289"/></Shape>
+	    <String CONTENT="Amoris mollis -a saltat. 2 plur.: ARNOB. nat. 5, 32 -as eum"
+                    HPOS="137"
+                    VPOS="1265"
+                    WIDTH="1153"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a926baba"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1325 1288 1325" 
+                    HPOS="135"
+                    VPOS="1300"
+                    WIDTH="1153"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="135 1325 135 1344 1288 1342 1288 1325 1288 1300 135 1300 135 1325"/></Shape>
+	    <String CONTENT="(Iovem) exercuisse cum filia (cf. 6, 22 amatorias ... miscuisse -as cum"
+                    HPOS="135"
+                    VPOS="1300"
+                    WIDTH="1153"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6722ef33"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1363 1288 1357" 
+                    HPOS="133"
+                    VPOS="1332"
+                    WIDTH="1155"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="135 1363 135 1378 1286 1376 1288 1357 1282 1332 133 1336 135 1363"/></Shape>
+	    <String CONTENT="... signo Veneris). AVG. bon. coniug. 21, 26 p. 220, 22 amatores femi¬"
+                    HPOS="133"
+                    VPOS="1332"
+                    WIDTH="1155"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f368022f"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1393 1284 1396" 
+                    HPOS="133"
+                    VPOS="1368"
+                    WIDTH="1151"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="135 1393 133 1408 1282 1408 1284 1396 1282 1372 135 1368 135 1393"/></Shape>
+	    <String CONTENT="narum et -arum (var. l. -orum). nupt. et concup. 1, 12, 13 non est ..."
+                    HPOS="133"
+                    VPOS="1368"
+                    WIDTH="1151"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bac8e5f"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1430 1288 1430" 
+                    HPOS="135"
+                    VPOS="1400"
+                    WIDTH="1153"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="135 1430 135 1449 1288 1447 1288 1430 1288 1406 135 1400 135 1430"/></Shape>
+	    <String CONTENT="libido nuptiarum bonum, sed obscenitas peccantium, necessitas gene¬"
+                    HPOS="135"
+                    VPOS="1400"
+                    WIDTH="1153"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ec25dba"
+                    TAGREFS="LT2515"
+                    BASELINE="133 1468 805 1466" 
+                    HPOS="131"
+                    VPOS="1441"
+                    WIDTH="674"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="133 1468 133 1483 801 1485 805 1466 799 1441 131 1441 133 1468"/></Shape>
+	    <String CONTENT="rantium, -arum ardor, nuptiarum pudor."
+                    HPOS="131"
+                    VPOS="1441"
+                    WIDTH="674"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95897244"
+                    TAGREFS="LT2515"
+                    BASELINE="206 1500 1230 1500" 
+                    HPOS="206"
+                    VPOS="1475"
+                    WIDTH="1024"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="206 1500 206 1519 1228 1520 1230 1500 1230 1475 206 1475 206 1500"/></Shape>
+	    <String CONTENT="II in dicendo, scribendo (plur. l. 43; acced. gen. gerund. l. 56):"
+                    HPOS="206"
+                    VPOS="1475"
+                    WIDTH="1024"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcf3fa98"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1539 1288 1534" 
+                    HPOS="133"
+                    VPOS="1511"
+                    WIDTH="1155"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="135 1539 135 1560 1286 1558 1288 1534 1282 1511 133 1515 135 1539"/></Shape>
+	    <String CONTENT="A in carminibus (respicitur sive poetae habitus sive operis stilus eiusve"
+                    HPOS="133"
+                    VPOS="1511"
+                    WIDTH="1155"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8358cf6f"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1573 1288 1573" 
+                    HPOS="135"
+                    VPOS="1549"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 1573 135 1594 1288 1594 1288 1573 1288 1549 135 1549 135 1573"/></Shape>
+	    <String CONTENT="argumentum maxime res amatorias tractans): OV. rem. 385 Thais in"
+                    HPOS="135"
+                    VPOS="1549"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2e0547b"
+                    TAGREFS="LT2515"
+                    BASELINE="133 1609 1288 1605" 
+                    HPOS="131"
+                    VPOS="1581"
+                    WIDTH="1157"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="133 1609 133 1626 1284 1628 1288 1605 1282 1581 131 1582 133 1609"/></Shape>
+	    <String CONTENT="arte mea cst: -a libera nostra est; nil mihi cum vitta. trist. 2, 313 in"
+                    HPOS="131"
+                    VPOS="1581"
+                    WIDTH="1157"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5da0e6fb"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1643 1286 1641" 
+                    HPOS="133"
+                    VPOS="1618"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 1643 135 1661 1282 1663 1286 1641 1280 1618 133 1618 135 1643"/></Shape>
+	    <String CONTENT="nostra nimia est -a Musa. 2, 345 haec tibi me invisum -a fecit ob artes."
+                    HPOS="133"
+                    VPOS="1618"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7194eb5"
+                    TAGREFS="LT2515"
+                    BASELINE="137 1682 1286 1678" 
+                    HPOS="135"
+                    VPOS="1654"
+                    WIDTH="1151"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="137 1682 137 1697 1284 1695 1286 1678 1282 1654 135 1654 137 1682"/></Shape>
+	    <String CONTENT="LIV. 4, 53, 13 sollemnis militum -a in consulem. TAC. dial. 10, 4 ele¬"
+                    HPOS="135"
+                    VPOS="1654"
+                    WIDTH="1151"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cafff2d6"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1716 1286 1716" 
+                    HPOS="135"
+                    VPOS="1692"
+                    WIDTH="1151"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="135 1716 135 1739 1286 1735 1286 1716 1286 1692 135 1692 135 1716"/></Shape>
+	    <String CONTENT="gorum -as et iamborum amaritudinem epigrammatum lusus. PLIN."
+                    HPOS="135"
+                    VPOS="1692"
+                    WIDTH="1151"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8579c45"
+                    TAGREFS="LT2515"
+                    BASELINE="133 1752 1288 1752" 
+                    HPOS="133"
+                    VPOS="1723"
+                    WIDTH="1155"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="133 1752 133 1769 1288 1767 1288 1752 1286 1723 133 1723 133 1752"/></Shape>
+	    <String CONTENT="epist. 4, 14, 4 poetas non modo -a rerum, sed ne verbis quidem nudis"
+                    HPOS="133"
+                    VPOS="1723"
+                    WIDTH="1155"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef3b6cd4"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1786 1286 1784" 
+                    HPOS="133"
+                    VPOS="1761"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 1786 135 1806 1284 1801 1286 1784 1280 1761 133 1761 135 1786"/></Shape>
+	    <String CONTENT="abstinuisse. ARNOB. nat. 5, 1 illa, quae historiae continent ..., poeta¬"
+                    HPOS="133"
+                    VPOS="1761"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a26ad3b5"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1821 1290 1821" 
+                    HPOS="135"
+                    VPOS="1795"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 1821 135 1840 1290 1836 1290 1821 1290 1797 135 1795 135 1821"/></Shape>
+	    <String CONTENT="rum sunt excogitata -a? AVSON. 360 p. 218, 9 P. Plinio in poematiis"
+                    HPOS="135"
+                    VPOS="1795"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9deb6f25"
+                    TAGREFS="LT2515"
+                    BASELINE="137 1859 1217 1859" 
+                    HPOS="137"
+                    VPOS="1834"
+                    WIDTH="1080"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="137 1859 137 1872 1215 1880 1217 1859 1217 1834 137 1834 137 1859"/></Shape>
+	    <String CONTENT="-am, in moribus constitisse censuram. B in oratione soluta:"
+                    HPOS="137"
+                    VPOS="1834"
+                    WIDTH="1080"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3606c06"
+                    TAGREFS="LT2515"
+                    BASELINE="139 1893 1290 1893" 
+                    HPOS="139"
+                    VPOS="1863"
+                    WIDTH="1151"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="139 1893 139 1911 1290 1911 1290 1893 1290 1868 139 1863 139 1893"/></Shape>
+	    <String CONTENT="1 respicitur nimius ornatus: SEN. epist. 114, 2 argumentum est"
+                    HPOS="139"
+                    VPOS="1863"
+                    WIDTH="1151"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2a2fb31"
+                    TAGREFS="LT2515"
+                    BASELINE="135 1925 1288 1928" 
+                    HPOS="133"
+                    VPOS="1895"
+                    WIDTH="1155"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="135 1925 133 1942 1284 1949 1288 1928 1286 1898 135 1895 135 1925"/></Shape>
+	    <String CONTENT="luxuriae publicae orationis -a. QVINT. inst. 2, 5, 22 ne recentis huius"
+                    HPOS="133"
+                    VPOS="1895"
+                    WIDTH="1155"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50c824ff"
+                    TAGREFS="LT2515"
+                    BASELINE="137 1964 1290 1964" 
+                    HPOS="137"
+                    VPOS="1940"
+                    WIDTH="1153"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="137 1964 137 1979 1288 1981 1290 1964 1290 1940 137 1940 137 1964"/></Shape>
+	    <String CONTENT="-ae flosculis capti voluptate prava deleniantur discipuli (10, 1, 43 -a"
+                    HPOS="137"
+                    VPOS="1940"
+                    WIDTH="1153"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_527904bd"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2000 1288 1996" 
+                    HPOS="133"
+                    VPOS="1972"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 2000 135 2017 1286 2017 1288 1996 1282 1972 133 1974 135 2000"/></Shape>
+	    <String CONTENT="deliciaeque). TAC. dial. 26, 2 quo cultu ... actores ita utuntur, ut -a ver¬"
+                    HPOS="133"
+                    VPOS="1972"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67664acf"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2034 1288 2032" 
+                    HPOS="133"
+                    VPOS="2005"
+                    WIDTH="1155"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="135 2034 135 2052 1284 2056 1288 2032 1284 2009 133 2005 135 2034"/></Shape>
+	    <String CONTENT="borum et levitate sententiarum et licentia compositionis histrionales"
+                    HPOS="133"
+                    VPOS="2005"
+                    WIDTH="1155"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d069b67"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2069 1288 2071" 
+                    HPOS="135"
+                    VPOS="2041"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 2069 135 2086 1286 2086 1288 2071 1286 2043 135 2041 135 2069"/></Shape>
+	    <String CONTENT="modos exprimant. 2 respicitur dicacitas, maledicendi cupiditas"
+                    HPOS="135"
+                    VPOS="2041"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f71ab416"
+                    TAGREFS="LT2515"
+                    BASELINE="133 2103 1290 2107" 
+                    HPOS="131"
+                    VPOS="2077"
+                    WIDTH="1159"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="133 2103 131 2122 1288 2122 1290 2107 1286 2077 133 2077 133 2103"/></Shape>
+	    <String CONTENT="sim.: PLIN. nat. 26, 2 lichenas appellavere ... ioculari ... -a, ut est"
+                    HPOS="131"
+                    VPOS="2077"
+                    WIDTH="1159"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ff560f6"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2143 1290 2143" 
+                    HPOS="135"
+                    VPOS="2115"
+                    WIDTH="1155"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="135 2143 135 2162 1290 2158 1290 2143 1290 2116 135 2115 135 2143"/></Shape>
+	    <String CONTENT="procax multorum natura in alienis miseriis ..., mentagram. QVINT."
+                    HPOS="135"
+                    VPOS="2115"
+                    WIDTH="1155"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ace2f02"
+                    TAGREFS="LT2515"
+                    BASELINE="137 2177 1288 2175" 
+                    HPOS="135"
+                    VPOS="2152"
+                    WIDTH="1153"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="137 2177 137 2201 1286 2201 1288 2175 1282 2152 135 2152 137 2177"/></Shape>
+	    <String CONTENT="inst. 9, 2, 76 maledicendi. TAC. ann. 11, 13, 1 theatralem populi -am"
+                    HPOS="135"
+                    VPOS="2152"
+                    WIDTH="1153"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9f59724"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2212 1288 2212" 
+                    HPOS="135"
+                    VPOS="2188"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 2212 135 2233 1288 2233 1288 2212 1288 2188 135 2188 135 2212"/></Shape>
+	    <String CONTENT="severis edictis increpuit, quod in P. Pomponium ... probra iecerat."
+                    HPOS="135"
+                    VPOS="2188"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf99dd35"
+                    TAGREFS="LT2515"
+                    BASELINE="133 2248 870 2248" 
+                    HPOS="133"
+                    VPOS="2220"
+                    WIDTH="737"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="133 2248 133 2265 870 2265 870 2248 870 2222 133 2220 133 2248"/></Shape>
+	    <String CONTENT="GREG. M. moral. 10, 8 p. 923C obtrectationis."
+                    HPOS="133"
+                    VPOS="2220"
+                    WIDTH="737"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_710961bd"
+                    TAGREFS="LT2515"
+                    BASELINE="205 2284 1290 2280" 
+                    HPOS="203"
+                    VPOS="2256"
+                    WIDTH="1087"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="205 2284 205 2299 1286 2303 1290 2280 1284 2256 203 2257 205 2284"/></Shape>
+	    <String CONTENT="in locut. adverbialibus: per -am: LIV. 1, 5, 2. 2, 18, 2. 24, 16,"
+                    HPOS="203"
+                    VPOS="2256"
+                    WIDTH="1087"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2d9a24d"
+                    TAGREFS="LT2515"
+                    BASELINE="137 2316 1286 2319" 
+                    HPOS="135"
+                    VPOS="2291"
+                    WIDTH="1151"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="137 2316 135 2329 1282 2336 1286 2319 1286 2295 137 2291 137 2316"/></Shape>
+	    <String CONTENT="14. 39, 42, 9 (suppl. per; var. l. -a). TAG. hist. 2, 68, 2. 3, 33, 2. 3, 62, 2."
+                    HPOS="135"
+                    VPOS="2291"
+                    WIDTH="1151"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ae93eae"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2351 1288 2355" 
+                    HPOS="133"
+                    VPOS="2327"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 2351 133 2366 1284 2372 1288 2355 1288 2331 135 2327 135 2351"/></Shape>
+	    <String CONTENT="ann. 12, 7, 3. 14, 20, 4. et saepius. abl.: PLIN. nat. 18, 364. 26, 2 TERT."
+                    HPOS="133"
+                    VPOS="2327"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc83dd3c"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2391 961 2387" 
+                    HPOS="133"
+                    VPOS="2363"
+                    WIDTH="828"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 2391 135 2408 959 2406 961 2387 955 2363 133 2363 135 2391"/></Shape>
+	    <String CONTENT="apol. 35, 1. cf. l. 60. cum -a: LACT. inst. 1, 20, 10."
+                    HPOS="133"
+                    VPOS="2363"
+                    WIDTH="828"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbc2a2a8"
+                    TAGREFS="LT2515"
+                    BASELINE="203 2423 1290 2423" 
+                    HPOS="203"
+                    VPOS="2393"
+                    WIDTH="1087"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="203 2423 203 2440 1288 2442 1290 2423 1288 2393 203 2398 203 2423"/></Shape>
+	    <String CONTENT="homoeoprophora: luxuria, -ries (TER. Haut. 945 SEN. epist. 114, 2"
+                    HPOS="203"
+                    VPOS="2393"
+                    WIDTH="1087"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f93bde19"
+                    TAGREFS="LT2515"
+                    BASELINE="137 2457 1290 2460" 
+                    HPOS="135"
+                    VPOS="2434"
+                    WIDTH="1155"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="137 2457 135 2470 1286 2474 1290 2460 1290 2438 137 2434 137 2457"/></Shape>
+	    <String CONTENT="SVET. Cal. 25, 3. FRONTO p. 122, 9 v. d. H. [p. 128 N. ]. APVL. met."
+                    HPOS="135"
+                    VPOS="2434"
+                    WIDTH="1155"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3074726e"
+                    TAGREFS="LT2515"
+                    BASELINE="141 2494 1290 2494" 
+                    HPOS="141"
+                    VPOS="2468"
+                    WIDTH="1149"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="141 2494 141 2511 1290 2509 1290 2494 1290 2470 141 2468 141 2494"/></Shape>
+	    <String CONTENT="7, 23, 1 TERT. ieiun. 17 p. 296, 26 pudic. 17 p. 256, 5. cf. luxus: AVR."
+                    HPOS="141"
+                    VPOS="2468"
+                    WIDTH="1149"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60736733"
+                    TAGREFS="LT2515"
+                    BASELINE="142 2526 1288 2530" 
+                    HPOS="141"
+                    VPOS="2498"
+                    WIDTH="1147"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="142 2526 141 2541 1284 2549 1288 2530 1286 2506 142 2498 142 2526"/></Shape>
+	    <String CONTENT="VICT. Caes. 14, 6. 31, 2 HIL. in Matth. 11, 5 AMM. 21, 16, 5), laetitia"
+                    HPOS="141"
+                    VPOS="2498"
+                    WIDTH="1147"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d9f57b0"
+                    TAGREFS="LT2515"
+                    BASELINE="139 2566 1288 2562" 
+                    HPOS="137"
+                    VPOS="2539"
+                    WIDTH="1151"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="139 2566 139 2583 1284 2585 1288 2562 1282 2539 137 2541 139 2566"/></Shape>
+	    <String CONTENT="(SALL. Catil. 31, 1 TAC. ann. 14, 21, 3 ITIN. Alex. 43. cf. laeta LVCR. 5,"
+                    HPOS="137"
+                    VPOS="2539"
+                    WIDTH="1151"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dc8ba06"
+                    TAGREFS="LT2515"
+                    BASELINE="141 2601 1290 2601" 
+                    HPOS="141"
+                    VPOS="2575"
+                    WIDTH="1149"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="141 2601 141 2616 1288 2620 1290 2601 1290 2577 141 2575 141 2601"/></Shape>
+	    <String CONTENT="1400), licentia (SALL. Iug. 39, 5 TAC. dial. 26, 2 COD. Iust. 5, 9, 10, 2),"
+                    HPOS="141"
+                    VPOS="2575"
+                    WIDTH="1149"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20578bfc"
+                    TAGREFS="LT2515"
+                    BASELINE="139 2635 1290 2635" 
+                    HPOS="139"
+                    VPOS="2605"
+                    WIDTH="1151"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="139 2635 139 2652 1288 2654 1290 2635 1290 2611 139 2605 139 2635"/></Shape>
+	    <String CONTENT="ludus, -sus (SALL. Iug. 66, 2 LIV. 1, 5, 2. 37, 20, 5. 39, 15, 7 CELS. 3,"
+                    HPOS="139"
+                    VPOS="2605"
+                    WIDTH="1151"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f27464c4"
+                    TAGREFS="LT2515"
+                    BASELINE="137 2671 1288 2673" 
+                    HPOS="135"
+                    VPOS="2643"
+                    WIDTH="1153"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="137 2671 135 2686 1284 2692 1288 2673 1286 2647 137 2643 137 2671"/></Shape>
+	    <String CONTENT="24, 5 COLVM. 7, 12, 12 Tac. dial 10, 4. cf. -a ludere PLIN. nat. 18, 364),"
+                    HPOS="135"
+                    VPOS="2643"
+                    WIDTH="1153"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ec6bb7a"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2707 1290 2703" 
+                    HPOS="133"
+                    VPOS="2677"
+                    WIDTH="1157"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="135 2707 135 2727 1288 2724 1290 2703 1286 2680 133 2677 135 2707"/></Shape>
+	    <String CONTENT="levitas (TAC. dial. 26, 2 RVFIN. Orig. in Ios. 15, 3 p. 385, 1 AVG. civ."
+                    HPOS="133"
+                    VPOS="2677"
+                    WIDTH="1157"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52c8777d"
+                    TAGREFS="LT2515"
+                    BASELINE="139 2744 1290 2741" 
+                    HPOS="137"
+                    VPOS="2716"
+                    WIDTH="1153"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="139 2744 139 2763 1288 2763 1290 2741 1284 2716 137 2718 139 2744"/></Shape>
+	    <String CONTENT="2, 14 p. 69, 19 D.), libido (TERT. pudic. 17 p. 256, 5 RVFIN. Orig. in"
+                    HPOS="137"
+                    VPOS="2716"
+                    WIDTH="1153"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d0fd706"
+                    TAGREFS="LT2515"
+                    BASELINE="137 2778 468 2778" 
+                    HPOS="137"
+                    VPOS="2746"
+                    WIDTH="331"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="137 2778 137 2801 468 2795 468 2778 468 2754 137 2746 137 2778"/></Shape>
+	    <String CONTENT="Ios. 15, 3 p. 385, 1)."
+                    HPOS="137"
+                    VPOS="2746"
+                    WIDTH="331"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e006123"
+                    TAGREFS="LT2515"
+                    BASELINE="206 2814 524 2814" 
+                    HPOS="206"
+                    VPOS="2789"
+                    WIDTH="318"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="206 2814 206 2831 524 2831 524 2814 524 2789 206 2789 206 2814"/></Shape>
+	    <String CONTENT="deriv.: lasciviosus."
+                    HPOS="206"
+                    VPOS="2789"
+                    WIDTH="318"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e232d51"
+                    TAGREFS="LT2515"
+                    BASELINE="206 2848 1292 2844" 
+                    HPOS="205"
+                    VPOS="2820"
+                    WIDTH="1087"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="206 2848 206 2863 1290 2859 1292 2844 1286 2820 205 2821 206 2848"/></Shape>
+	    <String CONTENT="lascĩvĩbundus, -a, -um. a lascivire. fere i. q. habitu lascivo in¬"
+                    HPOS="205"
+                    VPOS="2820"
+                    WIDTH="1087"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a68f879"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2885 1290 2880" 
+                    HPOS="133"
+                    VPOS="2855"
+                    WIDTH="1157"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="135 2885 135 2902 1288 2898 1290 2880 1284 2855 133 2859 135 2885"/></Shape>
+	    <String CONTENT="signis, lasciviens: PLAVT. Stich. 288? quidnam dicam Pinacium -um"
+                    HPOS="133"
+                    VPOS="2855"
+                    WIDTH="1157"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1378c2d9"
+                    TAGREFS="LT2515"
+                    BASELINE="137 2919 1292 2915" 
+                    HPOS="135"
+                    VPOS="2891"
+                    WIDTH="1157"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="137 2919 137 2938 1290 2938 1292 2915 1288 2891 135 2891 137 2919"/></Shape>
+	    <String CONTENT="tam lubentem currere (A, lubenter cett.; cf. 285 age ut placet, curre ut"
+                    HPOS="135"
+                    VPOS="2891"
+                    WIDTH="1157"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85c0010d"
+                    TAGREFS="LT2515"
+                    BASELINE="135 2953 325 2957" 
+                    HPOS="133"
+                    VPOS="2921"
+                    WIDTH="192"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="135 2953 133 2972 323 2970 325 2957 323 2930 135 2921 135 2953"/></Shape>
+	    <String CONTENT="lubet eqs.)."
+                    HPOS="133"
+                    VPOS="2921"
+                    WIDTH="192"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_512321d1"
+                    TAGREFS="LT2515"
+                    BASELINE="1070 2951 1252 2949" 
+                    HPOS="1068"
+                    VPOS="2923"
+                    WIDTH="184"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1070 2951 1070 2970 1250 2970 1252 2949 1247 2923 1068 2923 1070 2951"/></Shape>
+	    <String CONTENT="Beikircher."
+                    HPOS="1068"
+                    VPOS="2923"
+                    WIDTH="184"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d1c64c5"
+                    TAGREFS="LT2515"
+                    BASELINE="188 2987 1294 2987" 
+                    HPOS="188"
+                    VPOS="2957"
+                    WIDTH="1106"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="188 2987 188 3002 1292 3008 1294 2987 1292 2957 188 2962 188 2987"/></Shape>
+	    <String CONTENT="*lascĩvio, -v(i)ĩ, -ĩre. a lascivus. formas perf. non invenimus nisi"
+                    HPOS="188"
+                    VPOS="2957"
+                    WIDTH="1106"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5dc1b734"
+                    TAGREFS="LT2515"
+                    BASELINE="135 3023 1292 3023" 
+                    HPOS="135"
+                    VPOS="2996"
+                    WIDTH="1157"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="135 3023 135 3039 1290 3041 1292 3023 1292 3000 135 2996 135 3023"/></Shape>
+	    <String CONTENT="GELL. 4, 20, 6 -visset. HIER. hom. Orig. in Luc. 9 p. 53, 18 -visse. in"
+                    HPOS="135"
+                    VPOS="2996"
+                    WIDTH="1157"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b518d91b"
+                    TAGREFS="LT2515"
+                    BASELINE="135 3060 1290 3055" 
+                    HPOS="133"
+                    VPOS="3032"
+                    WIDTH="1157"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="135 3060 135 3081 1288 3081 1290 3055 1286 3032 133 3032 135 3060"/></Shape>
+	    <String CONTENT="Ioel 1, 17 -vierunt. PS. HIER. epist. 18, 2 -visti. ? PS. AVG. serm. WSt."
+                    HPOS="133"
+                    VPOS="3032"
+                    WIDTH="1157"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5e6592c"
+                    TAGREFS="LT2515"
+                    BASELINE="141 3094 983 3094" 
+                    HPOS="141"
+                    VPOS="3066"
+                    WIDTH="842"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="141 3094 141 3113 983 3111 983 3094 983 3070 141 3066 141 3094"/></Shape>
+	    <String CONTENT="50, 1932 p. 134, 9 -verunt (-verent, -virent var. ll.)."
+                    HPOS="141"
+                    VPOS="3066"
+                    WIDTH="842"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0aaaa5e3"
+                    TAGREFS="LT2515"
+                    BASELINE="1025 3094 1290 3090" 
+                    HPOS="1023"
+                    VPOS="3066"
+                    WIDTH="267"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1025 3094 1025 3107 1288 3111 1290 3090 1284 3066 1023 3068 1025 3094"/></Shape>
+	    <String CONTENT="abl. -enti PLIN."
+                    HPOS="1023"
+                    VPOS="3066"
+                    WIDTH="267"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9b6b65c"
+                    TAGREFS="LT2515"
+                    BASELINE="137 3130 1027 3130" 
+                    HPOS="137"
+                    VPOS="3107"
+                    WIDTH="890"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="137 3130 137 3152 1027 3145 1027 3130 1027 3107 137 3107 137 3130"/></Shape>
+	    <String CONTENT="nat. 8, 5 FVLG. myth. 2, 2; -ente MACR Sat. 2, 2, 5."
+                    HPOS="137"
+                    VPOS="3107"
+                    WIDTH="890"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e434a39"
+                    TAGREFS="LT2515"
+                    BASELINE="1075 3130 1290 3126" 
+                    HPOS="1074"
+                    VPOS="3103"
+                    WIDTH="216"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="1075 3130 1075 3145 1288 3145 1290 3126 1284 3103 1074 3105 1075 3130"/></Shape>
+	    <String CONTENT="coniug. pri¬"
+                    HPOS="1074"
+                    VPOS="3103"
+                    WIDTH="216"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7c70a79"
+                    TAGREFS="LT2515"
+                    BASELINE="137 3167 1290 3162" 
+                    HPOS="135"
+                    VPOS="3137"
+                    WIDTH="1155"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="137 3167 137 3186 1290 3186 1290 3162 1284 3137 135 3141 137 3167"/></Shape>
+	    <String CONTENT="mae vel secundae: ANTH. 176, 13 Cecropii -ans bucula fabri. CHAR."
+                    HPOS="135"
+                    VPOS="3137"
+                    WIDTH="1155"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="632"
+                   VPOS="112"
+                   WIDTH="186"
+                   HEIGHT="44"
+                   ID="eSc_textblock_5748b843"
+                   TAGREFS="BT7509">
+          <Shape><Polygon POINTS="810 112 818 148 632 156 635 112"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_746e0e27"
+                    TAGREFS="LT2515"
+                    BASELINE="620 135 814 139" 
+                    HPOS="618"
+                    VPOS="105"
+                    WIDTH="196"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="808 120 790 112 771 112 752 112 733 112 714 112 695 112 677 112 658 112 639 112 637 105 620 105 620 135 618 156 810 157 814 139 810 124 808 120"/></Shape>
+	    <String CONTENT="LASCIVIA"
+                    HPOS="618"
+                    VPOS="105"
+                    WIDTH="196"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1388"
+                   VPOS="173"
+                   WIDTH="1168"
+                   HEIGHT="3083"
+                   ID="eSc_textblock_c794959d"
+                   >
+          <Shape><Polygon POINTS="1388 173 1388 3256 2556 3256 2556 173"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_df25c8d2"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 219 2554 223" 
+                    HPOS="1395"
+                    VPOS="195"
+                    WIDTH="1159"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="2543 201 2524 201 2505 201 2486 201 2467 201 2449 201 2430 201 2411 201 2392 201 2373 201 2355 201 2336 201 2317 201 2298 201 2279 201 2261 199 2242 199 2223 199 2204 199 2185 199 2166 199 2148 199 2129 199 2110 199 2091 199 2072 199 2054 199 2035 199 2016 199 1997 199 1978 199 1960 197 1941 197 1922 197 1903 197 1884 197 1865 197 1847 197 1828 197 1809 197 1790 197 1771 197 1753 197 1734 197 1715 197 1696 197 1677 195 1659 195 1640 195 1621 195 1602 195 1583 195 1565 195 1546 195 1527 195 1508 195 1489 195 1470 195 1452 195 1433 195 1414 195 1397 195 1397 219 1395 238 2552 238 2554 223 2552 201 2543 201"/></Shape>
+	    <String CONTENT="gramm. p. 469, 12 -eo. GLOSS. -ens: ludens (?, scrib. luciens). -entes:"
+                    HPOS="1395"
+                    VPOS="195"
+                    WIDTH="1159"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_308e87ac"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 257 2475 257" 
+                    HPOS="1395"
+                    VPOS="233"
+                    WIDTH="1080"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 257 1395 272 2473 280 2475 257 2475 233 1395 233 1395 257"/></Shape>
+	    <String CONTENT="ferventes. inde ab ENN., LVCIL., CIC. (lascivibundus PLAVT.)."
+                    HPOS="1395"
+                    VPOS="233"
+                    WIDTH="1080"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1e3d0cd"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 291 1982 295" 
+                    HPOS="1395"
+                    VPOS="265"
+                    WIDTH="587"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1397 291 1395 310 1980 310 1982 295 1980 265 1397 265 1397 291"/></Shape>
+	    <String CONTENT="[in sent. corrupta SEN. contr. 2, 6, 4."
+                    HPOS="1395"
+                    VPOS="265"
+                    WIDTH="587"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_423cf4d0"
+                    TAGREFS="LT2515"
+                    BASELINE="1469 329 2552 329" 
+                    HPOS="1469"
+                    VPOS="300"
+                    WIDTH="1083"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1469 329 1469 344 2550 351 2552 329 2550 300 1469 302 1469 329"/></Shape>
+	    <String CONTENT="i. q. lascivum esse (minus valet quam saevire l. 12. al., sed cf."
+                    HPOS="1469"
+                    VPOS="300"
+                    WIDTH="1083"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20bf7556"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 362 2481 362" 
+                    HPOS="1395"
+                    VPOS="334"
+                    WIDTH="1086"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1395 362 1395 383 2481 383 2481 362 2481 340 1395 334 1395 362"/></Shape>
+	    <String CONTENT="l. 29; c. in fin. l. 46. 62, acc. int. l. 51): I quidlibet agendo:"
+                    HPOS="1395"
+                    VPOS="334"
+                    WIDTH="1086"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff875f70"
+                    TAGREFS="LT2515"
+                    BASELINE="1399 400 2552 396" 
+                    HPOS="1397"
+                    VPOS="372"
+                    WIDTH="1155"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1399 400 1399 419 2550 419 2552 396 2546 372 1397 376 1399 400"/></Shape>
+	    <String CONTENT="A de animantibus eorumque affectibus, gestis sim. (-unt res animatae"
+                    HPOS="1397"
+                    VPOS="372"
+                    WIDTH="1155"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82aeb4ac"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 436 2516 436" 
+                    HPOS="1397"
+                    VPOS="406"
+                    WIDTH="1119"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1397 436 1397 453 2516 453 2516 436 2516 413 1397 406 1397 436"/></Shape>
+	    <String CONTENT="l. 34. 66): 1 generatim: a praevalente vi incorporali:"
+                    HPOS="1397"
+                    VPOS="406"
+                    WIDTH="1119"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2b7fe9e"
+                    TAGREFS="LT2515"
+                    BASELINE="1399 466 2552 470" 
+                    HPOS="1397"
+                    VPOS="438"
+                    WIDTH="1155"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1399 466 1397 488 2550 488 2552 470 2550 443 1399 438 1399 466"/></Shape>
+	    <String CONTENT="ENN. scaen. 50 quid -i&lt;s&gt;, stolide ? CIC. rep. 1, 63 in pace et otio; licet&lt;/s&gt;"
+                    HPOS="1397"
+                    VPOS="438"
+                    WIDTH="1155"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5b93ab7"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 503 2552 509" 
+                    HPOS="1395"
+                    VPOS="477"
+                    WIDTH="1157"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1397 503 1395 524 2548 528 2552 509 2550 483 1397 477 1397 503"/></Shape>
+	    <String CONTENT="enim -ire, dum nihil metuas. LIV. 2, 28, 5 otio -ire plebem (SEN. dial. 2,"
+                    HPOS="1395"
+                    VPOS="477"
+                    WIDTH="1157"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c431f286"
+                    TAGREFS="LT2515"
+                    BASELINE="1401 541 2522 543" 
+                    HPOS="1399"
+                    VPOS="515"
+                    WIDTH="1123"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1401 541 1399 560 2520 560 2522 543 2520 517 1401 515 1401 541"/></Shape>
+	    <String CONTENT="10, 3 TAC. Agr. 16, 3. al. cf. LIV. 2, 52, 2 ex copia ... otioque -ire.."
+                    HPOS="1399"
+                    VPOS="515"
+                    WIDTH="1123"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad9e23cc"
+                    TAGREFS="LT2515"
+                    BASELINE="1403 579 2533 580" 
+                    HPOS="1401"
+                    VPOS="552"
+                    WIDTH="1132"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1403 579 1401 595 2531 592 2533 580 2531 554 1403 552 1403 579"/></Shape>
+	    <String CONTENT="animi. PS. QVINT. decl. 3, 12 -it otium. TAC. Germ. 44, 3 otiosae.."
+                    HPOS="1401"
+                    VPOS="552"
+                    WIDTH="1132"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1827b982"
+                    TAGREFS="LT2515"
+                    BASELINE="1399 611 2548 614" 
+                    HPOS="1397"
+                    VPOS="584"
+                    WIDTH="1151"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1399 611 1397 631 2546 631 2548 614 2546 586 1399 584 1399 611"/></Shape>
+	    <String CONTENT="manus facile -unt). 2, 29, 9 -ire magis plebem quam saevire. 23, 4, 5 ci¬"
+                    HPOS="1397"
+                    VPOS="584"
+                    WIDTH="1151"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f370e255"
+                    TAGREFS="LT2515"
+                    BASELINE="1399 648 2545 650" 
+                    HPOS="1397"
+                    VPOS="620"
+                    WIDTH="1148"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1399 648 1397 663 2541 669 2545 650 2541 620 1399 622 1399 648"/></Shape>
+	    <String CONTENT="vitas ... ita ... -ire, ut nec libidini nec sumptibus modus esset. SEN."
+                    HPOS="1397"
+                    VPOS="620"
+                    WIDTH="1148"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_676a7b63"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 682 2546 686" 
+                    HPOS="1395"
+                    VPOS="656"
+                    WIDTH="1151"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1397 682 1395 695 1410 705 1412 705 1414 705 1416 705 2545 703 2546 686 2545 659 1397 656 1397 682"/></Shape>
+	    <String CONTENT="contr. 9, 5, 7 nepotem ... inter pueriles iocos petulantius -ontem. SEN."
+                    HPOS="1395"
+                    VPOS="656"
+                    WIDTH="1151"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd0386fd"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 718 2545 721" 
+                    HPOS="1393"
+                    VPOS="691"
+                    WIDTH="1152"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1395 718 1393 731 2541 735 2545 721 2543 695 1395 691 1395 718"/></Shape>
+	    <String CONTENT="benef. 7, 20, 3 ludibria regum in mari -entium. dial. 1, 1, 6 -ire et vo¬"
+                    HPOS="1393"
+                    VPOS="691"
+                    WIDTH="1152"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3dda17ca"
+                    TAGREFS="LT2515"
+                    BASELINE="1399 755 2548 755" 
+                    HPOS="1399"
+                    VPOS="725"
+                    WIDTH="1149"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1399 755 1399 778 2548 778 2548 755 2548 725 1399 725 1399 755"/></Shape>
+	    <String CONTENT="luptatibus fuere (opp. laborare, sudare eqs.). epist. 56, 9 numquam vacat"
+                    HPOS="1399"
+                    VPOS="725"
+                    WIDTH="1149"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bab3953d"
+                    TAGREFS="LT2515"
+                    BASELINE="1399 791 2545 791" 
+                    HPOS="1399"
+                    VPOS="767"
+                    WIDTH="1146"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1399 791 1399 806 2541 812 2545 791 2543 767 1399 767 1399 791"/></Shape>
+	    <String CONTENT="-ire districtis. STAT. silv. 3, 2, 111 cur ... Therapnaei -at ora Canopi,"
+                    HPOS="1399"
+                    VPOS="767"
+                    WIDTH="1146"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77cd5a42"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 825 2543 829" 
+                    HPOS="1395"
+                    VPOS="795"
+                    WIDTH="1148"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1397 825 1395 844 2539 846 2543 829 2541 802 1397 795 1397 825"/></Shape>
+	    <String CONTENT="MART. 4, 3, 7 quis siccis -it aquis (i. nive) et ab aethere ludit? (ARNOB."
+                    HPOS="1395"
+                    VPOS="795"
+                    WIDTH="1148"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b88b9dbd"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 861 2545 861" 
+                    HPOS="1397"
+                    VPOS="836"
+                    WIDTH="1148"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1397 861 1397 881 2545 881 2545 861 2545 836 1397 836 1397 861"/></Shape>
+	    <String CONTENT="nat. 6, 13. 7, 33 l., -ire, saltare. PS. HIER. epist. 18, 2 lusisti puer, adu¬"
+                    HPOS="1397"
+                    VPOS="836"
+                    WIDTH="1148"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_476ea6cb"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 894 2543 898" 
+                    HPOS="1393"
+                    VPOS="870"
+                    WIDTH="1150"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1395 894 1393 909 2539 913 2543 898 2541 874 1395 870 1395 894"/></Shape>
+	    <String CONTENT="lescentulus -isti). QVINT. decl. 291 p. 160, 16 non est istud (i. in amo¬"
+                    HPOS="1393"
+                    VPOS="870"
+                    WIDTH="1150"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_baed79d9"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 934 2546 934" 
+                    HPOS="1395"
+                    VPOS="908"
+                    WIDTH="1151"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1395 934 1395 949 2545 953 2546 934 2546 908 1395 908 1395 934"/></Shape>
+	    <String CONTENT="rem incidere) nisi -entis animi. PS. QVINT. decl. 15, 10 amor -entis adhuc"
+                    HPOS="1395"
+                    VPOS="908"
+                    WIDTH="1151"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c956c56"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 970 2545 970" 
+                    HPOS="1395"
+                    VPOS="945"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 970 1395 987 2543 992 2545 970 2545 945 1395 945 1395 970"/></Shape>
+	    <String CONTENT="aetatis instinctu tumultuosus ac petulans (HIER. epist. 52, 1, 1). TAC."
+                    HPOS="1395"
+                    VPOS="945"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7502b03"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 1003 2546 1003" 
+                    HPOS="1397"
+                    VPOS="975"
+                    WIDTH="1149"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1397 1003 1397 1022 2545 1024 2546 1003 2546 981 1397 975 1397 1003"/></Shape>
+	    <String CONTENT="hist. 3, 83, 2 et furere ... et -ire. ann. 1, 16, 2 -ire ..., denique luxum"
+                    HPOS="1397"
+                    VPOS="975"
+                    WIDTH="1149"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5af4841"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 1039 2543 1041" 
+                    HPOS="1393"
+                    VPOS="1013"
+                    WIDTH="1150"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="1395 1039 1393 1052 2539 1054 2543 1041 2541 1015 1395 1013 1395 1039"/></Shape>
+	    <String CONTENT="et otium cupere. 2, 44, 1 urbano luxu. al. GELL. 1, 11, 7 -entium deli¬"
+                    HPOS="1393"
+                    VPOS="1013"
+                    WIDTH="1150"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ed082d6"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1073 2543 1077" 
+                    HPOS="1391"
+                    VPOS="1047"
+                    WIDTH="1152"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 1073 1391 1088 2539 1094 2543 1077 2541 1050 1393 1047 1393 1073"/></Shape>
+	    <String CONTENT="cias conviviorum (cf. MACR. Sat. 1, 5, 11 cenam ... non -entem ferculis,"
+                    HPOS="1391"
+                    VPOS="1047"
+                    WIDTH="1152"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdffb7f7"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1111 2545 1111" 
+                    HPOS="1393"
+                    VPOS="1082"
+                    WIDTH="1152"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1393 1111 1393 1126 2543 1128 2545 1111 2543 1082 1393 1084 1393 1111"/></Shape>
+	    <String CONTENT="sed quaestionibus doctis pudicam). TERT. adv. Marc. 1, 27 p. 329, 5"
+                    HPOS="1393"
+                    VPOS="1082"
+                    WIDTH="1152"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b470db5a"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 1144 2543 1144" 
+                    HPOS="1395"
+                    VPOS="1122"
+                    WIDTH="1148"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1395 1144 1395 1161 2541 1165 2543 1144 2543 1122 1395 1122 1395 1144"/></Shape>
+	    <String CONTENT="voluptates circi furentis et caveae saevientis et scaenae -entis. CYPR."
+                    HPOS="1395"
+                    VPOS="1122"
+                    WIDTH="1148"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2fc058ab"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1182 2546 1178" 
+                    HPOS="1391"
+                    VPOS="1152"
+                    WIDTH="1155"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1393 1182 1393 1199 2543 1201 2546 1178 2541 1152 1391 1156 1393 1182"/></Shape>
+	    <String CONTENT="epist. 13, 4 temulentus et -ens. LEX conviv. (Querol. p. 60, 22) quassi"
+                    HPOS="1391"
+                    VPOS="1152"
+                    WIDTH="1155"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a321205b"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1218 2546 1218" 
+                    HPOS="1391"
+                    VPOS="1193"
+                    WIDTH="1155"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="1391 1218 1391 1235 2546 1235 2546 1218 2546 1193 1391 1193 1391 1218"/></Shape>
+	    <String CONTENT="hominum -ens turba desaeviat. SYMM. epist. 8, 23, 3 me -ire in tanta lo¬"
+                    HPOS="1391"
+                    VPOS="1193"
+                    WIDTH="1155"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7b649fa"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1252 2541 1250" 
+                    HPOS="1390"
+                    VPOS="1227"
+                    WIDTH="1151"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1391 1252 1391 1269 2537 1272 2541 1250 2535 1227 1390 1227 1391 1252"/></Shape>
+	    <String CONTENT="corum amoenitate et rerum copia. AMBR. hex. 6, 6, 38 (v. p. 980, 67)."
+                    HPOS="1390"
+                    VPOS="1227"
+                    WIDTH="1151"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5c23fe2"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 1289 2545 1289" 
+                    HPOS="1395"
+                    VPOS="1263"
+                    WIDTH="1150"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1395 1289 1395 1304 2543 1306 2545 1289 2545 1265 1395 1263 1395 1289"/></Shape>
+	    <String CONTENT="in psalm. 118 serm. 15, 37, 1 ne cupiditates ... indomito fervore -ant."
+                    HPOS="1395"
+                    VPOS="1263"
+                    WIDTH="1150"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22964b95"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1323 2545 1323" 
+                    HPOS="1393"
+                    VPOS="1297"
+                    WIDTH="1152"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 1323 1393 1338 2543 1344 2545 1323 2545 1297 1393 1297 1393 1323"/></Shape>
+	    <String CONTENT="PS. RVFIN. in Os. 2, 11 cum tota regio choreis, canticis epulisque -ret"
+                    HPOS="1393"
+                    VPOS="1297"
+                    WIDTH="1152"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c6e5ea68"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1359 2541 1359" 
+                    HPOS="1393"
+                    VPOS="1334"
+                    WIDTH="1148"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="1393 1359 1393 1374 2539 1376 2541 1359 2541 1334 1393 1334 1393 1359"/></Shape>
+	    <String CONTENT="(cf. PRVD. apoth. 353 choris). CLAVD. rapt. Pros. 2, 146 galeam mites¬"
+                    HPOS="1393"
+                    VPOS="1334"
+                    WIDTH="1148"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e65b9218"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1394 2539 1393" 
+                    HPOS="1391"
+                    VPOS="1364"
+                    WIDTH="1148"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1393 1394 1393 1411 2535 1415 2539 1393 2533 1364 1391 1370 1393 1394"/></Shape>
+	    <String CONTENT="cere sertis; ferratus -it apex horrorque recessit Martius eqs. LEO M."
+                    HPOS="1391"
+                    VPOS="1364"
+                    WIDTH="1148"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e405d7ef"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1430 2548 1430" 
+                    HPOS="1391"
+                    VPOS="1400"
+                    WIDTH="1157"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1391 1430 1391 1443 2546 1449 2548 1430 2546 1400 1391 1404 1391 1430"/></Shape>
+	    <String CONTENT="serm. 48, 2 quo... aut ira saevit aut luxuria -it. al. b praevalente vi"
+                    HPOS="1391"
+                    VPOS="1400"
+                    WIDTH="1157"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_111faecd"
+                    TAGREFS="LT2515"
+                    BASELINE="1390 1466 2546 1462" 
+                    HPOS="1388"
+                    VPOS="1436"
+                    WIDTH="1158"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1390 1466 1390 1479 2545 1485 2546 1462 2541 1436 1388 1438 1390 1466"/></Shape>
+	    <String CONTENT="corporali (respicitur motus): LVCIL. 212 -ire pecus nasi (?) rostrique"
+                    HPOS="1388"
+                    VPOS="1436"
+                    WIDTH="1158"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c6040a6"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1502 2543 1498" 
+                    HPOS="1390"
+                    VPOS="1473"
+                    WIDTH="1153"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1391 1502 1391 1519 2539 1520 2543 1498 2537 1473 1390 1475 1391 1502"/></Shape>
+	    <String CONTENT="repandum (de delphinis ut SEN. Ag. 454 PLIN. nat. 18, 361 SOL. 12, 12."
+                    HPOS="1390"
+                    VPOS="1473"
+                    WIDTH="1153"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99a542a4"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 1539 2543 1534" 
+                    HPOS="1393"
+                    VPOS="1509"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 1539 1395 1556 2541 1552 2543 1534 2537 1509 1393 1513 1395 1539"/></Shape>
+	    <String CONTENT="cf. p. 983, 79). CIRIS 142 Scylla sacris operata deae -it et extra proce¬"
+                    HPOS="1393"
+                    VPOS="1509"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caf68f60"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1569 2543 1573" 
+                    HPOS="1390"
+                    VPOS="1545"
+                    WIDTH="1153"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1391 1569 1390 1582 2539 1590 2543 1573 2541 1547 1391 1545 1391 1569"/></Shape>
+	    <String CONTENT="dit ... matrum ... catervam. OV. met. 7, 321 exilit agnus -itque fuga"
+                    HPOS="1390"
+                    VPOS="1545"
+                    WIDTH="1153"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5baf7ba"
+                    TAGREFS="LT2515"
+                    BASELINE="1390 1609 2545 1605" 
+                    HPOS="1388"
+                    VPOS="1581"
+                    WIDTH="1157"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1390 1609 1390 1626 2543 1626 2545 1605 2539 1581 1388 1582 1390 1609"/></Shape>
+	    <String CONTENT="(COLVM. 7, 3, 18 seq. luxuriantem, exultatione. VVLG. prov. 7, 22). LIV."
+                    HPOS="1388"
+                    VPOS="1581"
+                    WIDTH="1157"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbb82848"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1645 2545 1639" 
+                    HPOS="1390"
+                    VPOS="1613"
+                    WIDTH="1155"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="1391 1645 1391 1663 2543 1663 2545 1639 2539 1613 1390 1620 1391 1645"/></Shape>
+	    <String CONTENT="27, 4, 13 angues ... -entium piscium modo exsultasse. PLIN. nat. 8, 3"
+                    HPOS="1390"
+                    VPOS="1613"
+                    WIDTH="1155"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb3b517e"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1678 2545 1678" 
+                    HPOS="1393"
+                    VPOS="1654"
+                    WIDTH="1152"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1393 1678 1393 1693 2543 1697 2545 1678 2545 1654 1393 1654 1393 1678"/></Shape>
+	    <String CONTENT="elephantos -enti pyrriche conludere. 10, 59 mansuefactae -unt grues."
+                    HPOS="1393"
+                    VPOS="1654"
+                    WIDTH="1152"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0caf20fd"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1714 2545 1710" 
+                    HPOS="1390"
+                    VPOS="1688"
+                    WIDTH="1155"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="1391 1714 1391 1729 2543 1729 2545 1710 2539 1688 1390 1690 1391 1714"/></Shape>
+	    <String CONTENT="SIL. 13, 329 dextera Panis -it caesa ... capra verbera laeta mo¬"
+                    HPOS="1390"
+                    VPOS="1688"
+                    WIDTH="1155"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b0cb8cb"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1748 2545 1748" 
+                    HPOS="1393"
+                    VPOS="1723"
+                    WIDTH="1152"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1393 1748 1393 1763 2543 1769 2545 1748 2545 1723 1393 1723 1393 1748"/></Shape>
+	    <String CONTENT="vens (cf. CE 1237, 3 [s. II/III] non manus Idalia -at improba virga."
+                    HPOS="1393"
+                    VPOS="1723"
+                    WIDTH="1152"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52c239b0"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1786 2543 1786" 
+                    HPOS="1393"
+                    VPOS="1757"
+                    WIDTH="1150"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1393 1786 1393 1802 2541 1806 2543 1786 2543 1761 1393 1757 1393 1786"/></Shape>
+	    <String CONTENT="FVLG. myth. 2, 2 -enti pollice fusi ... rotare vertiginem). PS. QVINT."
+                    HPOS="1393"
+                    VPOS="1757"
+                    WIDTH="1150"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8bea0e0"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 1821 2545 1817" 
+                    HPOS="1391"
+                    VPOS="1793"
+                    WIDTH="1154"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 1821 1393 1838 2541 1840 2545 1817 2539 1793 1391 1795 1393 1821"/></Shape>
+	    <String CONTENT="decl. 13, 9 -entem luxuriam fugam apium. TAC. ann. 2, 55, 5 vagum"
+                    HPOS="1391"
+                    VPOS="1793"
+                    WIDTH="1154"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50dc62d9"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1857 2543 1851" 
+                    HPOS="1390"
+                    VPOS="1827"
+                    WIDTH="1153"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1391 1857 1391 1874 2541 1874 2543 1851 2537 1827 1390 1831 1391 1857"/></Shape>
+	    <String CONTENT="ac -entem per agros militem. SVET. Iul. 67, 1 (nisi ad a pertinet) licen¬"
+                    HPOS="1390"
+                    VPOS="1827"
+                    WIDTH="1153"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_036e2916"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1891 2543 1889" 
+                    HPOS="1390"
+                    VPOS="1866"
+                    WIDTH="1153"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="1391 1891 1391 1906 2541 1904 2543 1889 2537 1866 1390 1866 1391 1891"/></Shape>
+	    <String CONTENT="tiam ... passim -endi permittebat militibus. FLOR. Verg. 2, 9 M. Iuppi¬"
+                    HPOS="1390"
+                    VPOS="1866"
+                    WIDTH="1153"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_751e808c"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1927 2543 1928" 
+                    HPOS="1390"
+                    VPOS="1900"
+                    WIDTH="1153"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1391 1927 1390 1938 2539 1947 2543 1928 2541 1902 1391 1900 1391 1927"/></Shape>
+	    <String CONTENT="ter taurus Europam portans ... per tota maria -it. APVL. met. 5, 22,"
+                    HPOS="1390"
+                    VPOS="1900"
+                    WIDTH="1153"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a02c45a"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 1964 2545 1958" 
+                    HPOS="1390"
+                    VPOS="1936"
+                    WIDTH="1155"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="1391 1964 1391 1977 2543 1975 2545 1958 2539 1936 1390 1940 1391 1964"/></Shape>
+	    <String CONTENT="6 alis Cupidinis quiescentibus extimae plumulae ... tremule resul¬"
+                    HPOS="1390"
+                    VPOS="1936"
+                    WIDTH="1155"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b454884"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2000 2546 1994" 
+                    HPOS="1391"
+                    VPOS="1970"
+                    WIDTH="1155"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 2000 1393 2015 2543 2017 2546 1994 2541 1970 1391 1974 1393 2000"/></Shape>
+	    <String CONTENT="tantes inquieta -unt. 5, 25, 3 vago pastu -unt... capellae. 6, 6, 3 gannitu"
+                    HPOS="1391"
+                    VPOS="1970"
+                    WIDTH="1155"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec8e871b"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2034 2541 2032" 
+                    HPOS="1391"
+                    VPOS="2007"
+                    WIDTH="1150"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1393 2034 1393 2051 2537 2052 2541 2032 2535 2007 1391 2007 1393 2034"/></Shape>
+	    <String CONTENT="constrepenti -unt passeres. PORPH. Hor. carm. 3, 18, 9 (&#x27;ludit ..."
+                    HPOS="1391"
+                    VPOS="2007"
+                    WIDTH="1150"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d266796"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2069 2546 2066" 
+                    HPOS="1391"
+                    VPOS="2041"
+                    WIDTH="1155"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="1393 2069 1393 2092 1523 2083 1907 2090 1909 2090 1971 2081 2543 2088 2546 2066 2541 2041 1391 2043 1393 2069"/></Shape>
+	    <String CONTENT="pecus&#x27;). PROB. Verg. georg. 4, 10 (&#x27;haedi ... petulci&#x27;). HIER. hom."
+                    HPOS="1391"
+                    VPOS="2041"
+                    WIDTH="1155"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a359525"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 2105 2546 2099" 
+                    HPOS="1390"
+                    VPOS="2075"
+                    WIDTH="1156"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1391 2105 1391 2118 2543 2120 2546 2099 2541 2075 1390 2079 1391 2105"/></Shape>
+	    <String CONTENT="Orig. in Luc. 9 p. 53, 18 (ad 1, 41. 44) &#x27;exsultasse&#x27; infantem et"
+                    HPOS="1390"
+                    VPOS="2075"
+                    WIDTH="1156"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_013236b6"
+                    TAGREFS="LT2515"
+                    BASELINE="1391 2139 2546 2139" 
+                    HPOS="1391"
+                    VPOS="2115"
+                    WIDTH="1155"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1391 2139 1391 2152 2545 2160 2546 2139 2546 2115 1391 2115 1391 2139"/></Shape>
+	    <String CONTENT="quodammodo gaudio -isse. in Ioel 1, 17 iumenta ... -ierunt (antea:"
+                    HPOS="1391"
+                    VPOS="2115"
+                    WIDTH="1155"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_454186dd"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2175 2545 2175" 
+                    HPOS="1393"
+                    VPOS="2148"
+                    WIDTH="1152"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1393 2175 1393 2192 2543 2193 2545 2175 2545 2148 1393 2148 1393 2175"/></Shape>
+	    <String CONTENT="subsaltaverunt, gr. ἐσκίρησαν). adv. Pelag. 1, 38 p. 532D (ad II reg."
+                    HPOS="1393"
+                    VPOS="2148"
+                    WIDTH="1152"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_402f9b7e"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2212 2543 2207" 
+                    HPOS="1393"
+                    VPOS="2182"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2212 1395 2225 2539 2229 2543 2207 2537 2182 1393 2186 1395 2212"/></Shape>
+	    <String CONTENT="6, 6, ubi Vulg. calcitrabant) -entes boves (VVLG. I par. 13, 9)."
+                    HPOS="1393"
+                    VPOS="2182"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7083b08f"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2240 2543 2244" 
+                    HPOS="1393"
+                    VPOS="2214"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2240 1393 2254 2539 2261 2543 2244 2541 2220 1395 2214 1395 2240"/></Shape>
+	    <String CONTENT="VVLG. OS. 4, 16 vacca -ens. RVFIN. Clement. 7, 37, 5 -entibus equis."
+                    HPOS="1393"
+                    VPOS="2214"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_709707e1"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2280 2545 2280" 
+                    HPOS="1395"
+                    VPOS="2254"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2280 1395 2301 2545 2297 2545 2280 2545 2254 1395 2254 1395 2280"/></Shape>
+	    <String CONTENT="PALLAD. hist. mon. I 5 p. 267B sues agrestes discursibus ac strepitu"
+                    HPOS="1395"
+                    VPOS="2254"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd6b2ea6"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2318 1950 2312" 
+                    HPOS="1391"
+                    VPOS="2289"
+                    WIDTH="559"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 2318 1393 2334 1946 2336 1950 2312 1944 2289 1391 2293 1393 2318"/></Shape>
+	    <String CONTENT="-entes (gr. p. 43, 2 B. σκιρτῶντας)."
+                    HPOS="1391"
+                    VPOS="2289"
+                    WIDTH="559"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_139a04f4"
+                    TAGREFS="LT2515"
+                    BASELINE="1474 2350 2545 2350" 
+                    HPOS="1474"
+                    VPOS="2318"
+                    WIDTH="1071"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1474 2350 1474 2370 2545 2366 2545 2350 2543 2318 1474 2321 1474 2350"/></Shape>
+	    <String CONTENT="22 in re amatoria c. colore pruriendi: PRIAP. 47, 4 uxor aut"
+                    HPOS="1474"
+                    VPOS="2318"
+                    WIDTH="1071"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_654e51d4"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2387 2543 2383" 
+                    HPOS="1391"
+                    VPOS="2359"
+                    WIDTH="1152"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 2387 1393 2404 2539 2406 2543 2383 2537 2359 1391 2361 1393 2387"/></Shape>
+	    <String CONTENT="amica rivalem -endo languidum ... reddat. MANIL. 5, 321 -it amores in"
+                    HPOS="1391"
+                    VPOS="2359"
+                    WIDTH="1152"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c82df3e"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2423 2543 2423" 
+                    HPOS="1395"
+                    VPOS="2398"
+                    WIDTH="1148"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1395 2423 1395 2434 2541 2442 2543 2423 2543 2398 1395 2398 1395 2423"/></Shape>
+	    <String CONTENT="varios (COLVM. 6, 24, 2 pecudes ... -unt in venerem. APVL. met. 7,"
+                    HPOS="1395"
+                    VPOS="2398"
+                    WIDTH="1148"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b8fff59"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 2459 2543 2453" 
+                    HPOS="1395"
+                    VPOS="2428"
+                    WIDTH="1148"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1397 2459 1397 2474 2539 2475 2543 2453 2537 2428 1395 2428 1397 2459"/></Shape>
+	    <String CONTENT="i4, 5 ut ... in greges equinos -ens discurrerem. MACR. Sat. 2, 2, 5 tam"
+                    HPOS="1395"
+                    VPOS="2428"
+                    WIDTH="1148"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f2f8503"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2494 2543 2489" 
+                    HPOS="1391"
+                    VPOS="2464"
+                    WIDTH="1152"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 2494 1393 2509 2539 2511 2543 2489 2537 2464 1391 2468 1393 2494"/></Shape>
+	    <String CONTENT="in matrem quam in puellam). APVL. met. 10, 31, 2 laciniam ... ventus"
+                    HPOS="1391"
+                    VPOS="2464"
+                    WIDTH="1152"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_17181afa"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2528 2541 2524" 
+                    HPOS="1391"
+                    VPOS="2500"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1393 2528 1393 2543 2537 2547 2541 2524 2535 2500 1391 2502 1393 2528"/></Shape>
+	    <String CONTENT="satis amanter nunc -ens reflabat ..., nunc luxurians aspirabat. TERT."
+                    HPOS="1391"
+                    VPOS="2500"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc8c83be"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2564 2543 2558" 
+                    HPOS="1393"
+                    VPOS="2536"
+                    WIDTH="1150"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1395 2564 1395 2581 2541 2575 2543 2558 2537 2536 1393 2539 1395 2564"/></Shape>
+	    <String CONTENT="uxor. 1, 5 l. 28 per -endi voluptatem. SOL. 23, 7 equae -unt mira fecun¬"
+                    HPOS="1393"
+                    VPOS="2536"
+                    WIDTH="1150"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9bc0cc4"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2600 2543 2594" 
+                    HPOS="1391"
+                    VPOS="2564"
+                    WIDTH="1152"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1393 2600 1393 2616 2541 2616 2543 2594 2537 2564 1391 2573 1393 2600"/></Shape>
+	    <String CONTENT="ditate. 30, 3 luxuria incesti (i. impudicitiae) -entis. ARNOB. nat. 1, 64"
+                    HPOS="1391"
+                    VPOS="2564"
+                    WIDTH="1152"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ba90f6b"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2635 2543 2632" 
+                    HPOS="1393"
+                    VPOS="2607"
+                    WIDTH="1150"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1395 2635 1395 2650 2539 2652 2543 2632 2537 2607 1393 2609 1395 2635"/></Shape>
+	    <String CONTENT="qui cum pueris cubitant formonsis, -entibus, nudis. EVANTH. de com."
+                    HPOS="1393"
+                    VPOS="2607"
+                    WIDTH="1150"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ef9acd4"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2671 2543 2663" 
+                    HPOS="1393"
+                    VPOS="2639"
+                    WIDTH="1150"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1395 2671 1395 2688 2541 2686 2543 2663 2537 2639 1393 2645 1395 2671"/></Shape>
+	    <String CONTENT="1, 3 amatorie. HIL. in psalm. 118 heth 11 p. 429, 16 occursus -entium"
+                    HPOS="1393"
+                    VPOS="2639"
+                    WIDTH="1150"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8cb4f16"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2703 2543 2703" 
+                    HPOS="1393"
+                    VPOS="2679"
+                    WIDTH="1150"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1393 2703 1393 2718 2541 2724 2543 2703 2543 2679 1393 2679 1393 2703"/></Shape>
+	    <String CONTENT="feminarum esse continentium oculis captiosos (AVG. c. Iulian. 3, 15,"
+                    HPOS="1393"
+                    VPOS="2679"
+                    WIDTH="1150"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b7044dc"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2741 2543 2737" 
+                    HPOS="1393"
+                    VPOS="2712"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2741 1395 2759 2541 2759 2543 2737 2537 2712 1393 2714 1395 2741"/></Shape>
+	    <String CONTENT="29). HIER. adv. Iovin. 1, 13 carnem -ire et ebullire in libidinem"
+                    HPOS="1393"
+                    VPOS="2712"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_686815cd"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2773 2541 2769" 
+                    HPOS="1393"
+                    VPOS="2746"
+                    WIDTH="1148"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2773 1395 2789 2537 2793 2541 2769 2535 2746 1393 2748 1395 2773"/></Shape>
+	    <String CONTENT="(PALLAD. hist. mon. I 11 p. 287D [gr. p. 75, 15 B. ἡμῖν ἐπιτίθεται]."
+                    HPOS="1393"
+                    VPOS="2746"
+                    WIDTH="1148"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc9b24ca"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2812 2543 2806" 
+                    HPOS="1393"
+                    VPOS="2782"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2812 1395 2827 2539 2829 2543 2806 2537 2782 1393 2786 1395 2812"/></Shape>
+	    <String CONTENT="cf. CASSIOD. in psalm. 118, 121). 1, 38 subant ad coitum et pecudum"
+                    HPOS="1393"
+                    VPOS="2782"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f12fad31"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2846 2543 2842" 
+                    HPOS="1393"
+                    VPOS="2816"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2846 1395 2861 2539 2863 2543 2842 2537 2816 1393 2820 1395 2846"/></Shape>
+	    <String CONTENT="more -unt (2, 7). VVLG. Am. 6, 4 -itis in stratis vestris (HIER. ad l.: ut"
+                    HPOS="1393"
+                    VPOS="2816"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5f13c8c"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2882 2545 2878" 
+                    HPOS="1393"
+                    VPOS="2853"
+                    WIDTH="1152"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2882 1395 2900 2543 2898 2545 2878 2539 2853 1393 2855 1395 2882"/></Shape>
+	    <String CONTENT="somno libidinem copuletis). AVG. c. adv. leg. 2, 9, 32 nulla ... -endi,"
+                    HPOS="1393"
+                    VPOS="2853"
+                    WIDTH="1152"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c73c1bf"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 2915 2537 2915" 
+                    HPOS="1393"
+                    VPOS="2891"
+                    WIDTH="1144"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1393 2915 1393 2930 2535 2936 2537 2915 2537 2891 1393 2891 1393 2915"/></Shape>
+	    <String CONTENT="sed sola ... causa generandi (civ. 14, 16 p. 39, 4 D. non solum g."
+                    HPOS="1393"
+                    VPOS="2891"
+                    WIDTH="1144"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a37df33f"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 2949 2539 2945" 
+                    HPOS="1395"
+                    VPOS="2923"
+                    WIDTH="1144"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="1397 2949 1397 2966 2537 2964 2539 2945 2533 2923 1395 2925 1397 2949"/></Shape>
+	    <String CONTENT="voluntati, verum etiam -endi libidini. cf. pecc. orig. 38, 43 non pro-"
+                    HPOS="1395"
+                    VPOS="2923"
+                    WIDTH="1144"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ae4877a"
+                    TAGREFS="LT2515"
+                    BASELINE="1395 2987 2543 2983" 
+                    HPOS="1393"
+                    VPOS="2961"
+                    WIDTH="1150"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="1395 2987 1395 3008 2541 3002 2543 2983 2537 2961 1393 2962 1395 2987"/></Shape>
+	    <String CONTENT="pagandi voluntate ..., sed -endi voluptate). in psalm. 97, 1 l. 34 accepta"
+                    HPOS="1393"
+                    VPOS="2961"
+                    WIDTH="1150"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8912f09f"
+                    TAGREFS="LT2515"
+                    BASELINE="1393 3023 2443 3019" 
+                    HPOS="1391"
+                    VPOS="2994"
+                    WIDTH="1052"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1393 3023 1393 3036 2441 3038 2443 3019 2437 2994 1391 2996 1393 3023"/></Shape>
+	    <String CONTENT="sanitate -unt; qui aegroti casti erant, sanati adulteri fiunt. al."
+                    HPOS="1391"
+                    VPOS="2994"
+                    WIDTH="1052"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1befb29"
+                    TAGREFS="LT2515"
+                    BASELINE="1472 3056 2499 3055" 
+                    HPOS="1470"
+                    VPOS="3028"
+                    WIDTH="1029"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1472 3056 1472 3077 2498 3077 2499 3055 2496 3030 1470 3028 1472 3056"/></Shape>
+	    <String CONTENT="B de rebus naturalibus: PLIN. nat. 21, 1 rerum naturae."
+                    HPOS="1470"
+                    VPOS="3028"
+                    WIDTH="1029"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f55e903f"
+                    TAGREFS="LT2515"
+                    BASELINE="1401 3092 2545 3088" 
+                    HPOS="1399"
+                    VPOS="3066"
+                    WIDTH="1146"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1401 3092 1401 3103 1662 3103 1685 3105 1739 3115 1741 3115 1743 3115 1771 3107 1783 3103 1794 3107 1815 3115 1817 3115 1818 3115 1988 3109 2161 3102 2170 3109 2170 3111 2172 3111 2174 3111 2296 3113 2298 3113 2300 3113 2302 3113 2304 3111 2313 3103 2324 3111 2326 3113 2328 3113 2330 3113 2332 3113 2545 3111 2545 3088 2539 3066 1399 3068 1401 3092"/></Shape>
+	    <String CONTENT="-enti ... et in magno gaudio fertilitatis ... ludenti. OP. imperf. in"
+                    HPOS="1399"
+                    VPOS="3066"
+                    WIDTH="1146"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25161043"
+                    TAGREFS="LT2515"
+                    BASELINE="1397 3128 2477 3122" 
+                    HPOS="1395"
+                    VPOS="3098"
+                    WIDTH="1082"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1397 3128 1397 3141 2475 3143 2477 3122 2473 3100 1395 3098 1397 3128"/></Shape>
+	    <String CONTENT="Matth. 40 p. 853 arbores -entes, dum ... ramos suos exporrigunt."
+                    HPOS="1395"
+                    VPOS="3098"
+                    WIDTH="1082"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58bdc16f"
+                    TAGREFS="LT2515"
+                    BASELINE="1472 3162 2539 3158" 
+                    HPOS="1470"
+                    VPOS="3133"
+                    WIDTH="1069"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2533 3133 1470 3133 1472 3162 1472 3186 1696 3180 1854 3188 1986 3194 1988 3194 2018 3188 2046 3182 2072 3188 2091 3192 2093 3192 2129 3188 2183 3182 2296 3188 2334 3190 2336 3190 2338 3190 2340 3190 2340 3188 2349 3180 2364 3188 2383 3197 2385 3197 2387 3197 2537 3188 2539 3158 2537 3149 2533 3133"/></Shape>
+	    <String CONTENT="II loquendo, scribendo (significatur genus ludicrum, impidicum,"
+                    HPOS="1470"
+                    VPOS="3133"
+                    WIDTH="1069"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e25a91f3"
+                    TAGREFS="LT2515"
+                    BASELINE="2402 3190 2516 3190" 
+                    HPOS="2402"
+                    VPOS="3164"
+                    WIDTH="114"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="2402 3190 2402 3214 2516 3214 2516 3190 2514 3164 2402 3165 2402 3190"/></Shape>
+	    <String CONTENT="[Heine]"
+                    HPOS="2402"
+                    VPOS="3164"
+                    WIDTH="114"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1877"
+                   VPOS="112"
+                   WIDTH="201"
+                   HEIGHT="44"
+                   ID="eSc_textblock_4bfc406f"
+                   TAGREFS="BT7509">
+          <Shape><Polygon POINTS="2071 112 2078 148 1892 156 1877 120 1899 112"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a3ff7efa"
+                    TAGREFS="LT2515"
+                    BASELINE="1881 141 2082 141" 
+                    HPOS="1881"
+                    VPOS="110"
+                    WIDTH="201"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="2069 118 2050 112 2031 112 2012 112 1993 112 1975 112 1956 112 1937 112 1918 112 1899 112 1884 129 1881 141 1881 159 2082 159 2082 141 2082 110 2069 110 2069 118"/></Shape>
+	    <String CONTENT="LASCIVIO"
+                    HPOS="1881"
+                    VPOS="110"
+                    WIDTH="201"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2471"
+                   VPOS="105"
+                   WIDTH="89"
+                   HEIGHT="51"
+                   ID="eSc_textblock_98b16f85"
+                   TAGREFS="BT7510">
+          <Shape><Polygon POINTS="2560 120 2552 156 2471 148 2479 112 2529 105"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1ed393e8"
+                    TAGREFS="LT2515"
+                    BASELINE="2481 135 2554 141" 
+                    HPOS="2479"
+                    VPOS="105"
+                    WIDTH="75"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="2537 110 2524 105 2514 105 2499 109 2481 110 2481 135 2479 154 2550 159 2554 141 2554 120 2537 110"/></Shape>
+	    <String CONTENT="982"
+                    HPOS="2479"
+                    VPOS="105"
+                    WIDTH="75"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="100"
+                   VPOS="2974"
+                   WIDTH="1213"
+                   HEIGHT="245"
+                   ID="eSc_textblock_ffd2b6a1"
+                   >
+          <Shape><Polygon POINTS="1313 3219 100 3219 100 2974 1313 2974"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="100"
+                   VPOS="2796"
+                   WIDTH="1213"
+                   HEIGHT="31"
+                   ID="eSc_textblock_3fbf791b"
+                   >
+          <Shape><Polygon POINTS="100 2796 1313 2796 1313 2827 100 2827"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="100"
+                   VPOS="2832"
+                   WIDTH="1213"
+                   HEIGHT="136"
+                   ID="eSc_textblock_ea054fb6"
+                   >
+          <Shape><Polygon POINTS="100 2832 1313 2832 1313 2968 100 2968"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1328"
+                   VPOS="293"
+                   WIDTH="38"
+                   HEIGHT="2802"
+                   ID="eSc_textblock_bcf2cfa5"
+                   TAGREFS="BT7510">
+          <Shape><Polygon POINTS="1328 293 1328 3095 1366 3095 1366 293"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_16ea71b7"
+                    TAGREFS="LT2515"
+                    BASELINE="1341 360 1354 360" 
+                    HPOS="1341"
+                    VPOS="340"
+                    WIDTH="13"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="1341 349 1341 360 1341 381 1350 385 1354 360 1352 340 1341 349"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="1341"
+                    VPOS="340"
+                    WIDTH="13"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3d8c825"
+                    TAGREFS="LT2515"
+                    BASELINE="1333 539 1336 539" 
+                    HPOS="1331"
+                    VPOS="504"
+                    WIDTH="3"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1331 538 1331 569 1334 569 1334 538 1334 504 1331 504 1331 538"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="1331"
+                    VPOS="504"
+                    WIDTH="3"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97063205"
+                    TAGREFS="LT2515"
+                    BASELINE="1333 716 1336 716" 
+                    HPOS="1331"
+                    VPOS="679"
+                    WIDTH="3"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1331 713 1331 744 1334 744 1334 713 1334 679 1331 679 1331 713"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="1331"
+                    VPOS="679"
+                    WIDTH="3"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02b38ad5"
+                    TAGREFS="LT2515"
+                    BASELINE="1328 894 1336 894" 
+                    HPOS="1325"
+                    VPOS="860"
+                    WIDTH="9"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1325 893 1325 922 1334 922 1334 893 1334 860 1325 860 1325 893"/></Shape>
+	    <String CONTENT="20"
+                    HPOS="1325"
+                    VPOS="860"
+                    WIDTH="9"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a35a9b33"
+                    TAGREFS="LT2515"
+                    BASELINE="1328 1075 1336 1074" 
+                    HPOS="1288"
+                    VPOS="970"
+                    WIDTH="51"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="1325 1074 1334 1099 1339 1096 1334 1071 1297 970 1288 970 1325 1074"/></Shape>
+	    <String CONTENT="25"
+                    HPOS="1288"
+                    VPOS="970"
+                    WIDTH="51"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9cef843"
+                    TAGREFS="LT2515"
+                    BASELINE="1328 1253 1336 1252" 
+                    HPOS="1311"
+                    VPOS="1212"
+                    WIDTH="28"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1325 1252 1331 1277 1339 1277 1334 1249 1317 1212 1311 1212 1325 1252"/></Shape>
+	    <String CONTENT="30"
+                    HPOS="1311"
+                    VPOS="1212"
+                    WIDTH="28"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a620329"
+                    TAGREFS="LT2515"
+                    BASELINE="1329 1432 1336 1431" 
+                    HPOS="1328"
+                    VPOS="1395"
+                    WIDTH="6"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1328 1429 1328 1457 1334 1457 1334 1429 1334 1395 1328 1395 1328 1429"/></Shape>
+	    <String CONTENT="35"
+                    HPOS="1328"
+                    VPOS="1395"
+                    WIDTH="6"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a3947351"
+                    TAGREFS="LT2515"
+                    BASELINE="1322 1609 1336 1609" 
+                    HPOS="1320"
+                    VPOS="1570"
+                    WIDTH="14"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1320 1607 1320 1627 1325 1632 1334 1607 1331 1570 1320 1570 1320 1607"/></Shape>
+	    <String CONTENT="40"
+                    HPOS="1320"
+                    VPOS="1570"
+                    WIDTH="14"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9a25f9d"
+                    TAGREFS="LT2515"
+                    BASELINE="1324 1786 1336 1786" 
+                    HPOS="1322"
+                    VPOS="1748"
+                    WIDTH="12"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1322 1785 1322 1810 1331 1813 1334 1785 1331 1748 1322 1748 1322 1785"/></Shape>
+	    <String CONTENT="45"
+                    HPOS="1322"
+                    VPOS="1748"
+                    WIDTH="12"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_880a530b"
+                    TAGREFS="LT2515"
+                    BASELINE="1322 1962 1336 1960" 
+                    HPOS="1320"
+                    VPOS="1923"
+                    WIDTH="14"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1320 1959 1320 1985 1328 1990 1334 1959 1331 1923 1320 1923 1320 1959"/></Shape>
+	    <String CONTENT="50"
+                    HPOS="1320"
+                    VPOS="1923"
+                    WIDTH="14"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_533da8a9"
+                    TAGREFS="LT2515"
+                    BASELINE="1322 2143 1336 2141" 
+                    HPOS="1320"
+                    VPOS="2106"
+                    WIDTH="14"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="1320 2140 1320 2162 1331 2165 1334 2140 1334 2106 1320 2106 1320 2140"/></Shape>
+	    <String CONTENT="55"
+                    HPOS="1320"
+                    VPOS="2106"
+                    WIDTH="14"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40ada6e0"
+                    TAGREFS="LT2515"
+                    BASELINE="1326 2318 1336 2318" 
+                    HPOS="1325"
+                    VPOS="2281"
+                    WIDTH="9"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1325 2315 1325 2346 1334 2346 1334 2315 1334 2281 1325 2281 1325 2315"/></Shape>
+	    <String CONTENT="60"
+                    HPOS="1325"
+                    VPOS="2281"
+                    WIDTH="9"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_846f773a"
+                    TAGREFS="LT2515"
+                    BASELINE="1326 2496 1336 2495" 
+                    HPOS="1311"
+                    VPOS="2456"
+                    WIDTH="23"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1325 2495 1334 2521 1334 2492 1317 2456 1311 2456 1325 2495"/></Shape>
+	    <String CONTENT="65"
+                    HPOS="1311"
+                    VPOS="2456"
+                    WIDTH="23"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed6ee478"
+                    TAGREFS="LT2515"
+                    BASELINE="1329 2673 1336 2673" 
+                    HPOS="1328"
+                    VPOS="2633"
+                    WIDTH="6"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1328 2698 1334 2670 1334 2633 1331 2633 1328 2670 1328 2698"/></Shape>
+	    <String CONTENT="70"
+                    HPOS="1328"
+                    VPOS="2633"
+                    WIDTH="6"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_427df05f"
+                    TAGREFS="LT2515"
+                    BASELINE="1326 2848 1336 2848" 
+                    HPOS="1325"
+                    VPOS="2811"
+                    WIDTH="9"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1325 2845 1325 2873 1334 2845 1334 2811 1325 2811 1325 2845"/></Shape>
+	    <String CONTENT="75"
+                    HPOS="1325"
+                    VPOS="2811"
+                    WIDTH="9"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8eec4573"
+                    TAGREFS="LT2515"
+                    BASELINE="1331 3023 1336 3023" 
+                    HPOS="1328"
+                    VPOS="2986"
+                    WIDTH="6"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1328 3020 1328 3048 1334 3020 1334 2986 1328 2986 1328 3020"/></Shape>
+	    <String CONTENT="80"
+                    HPOS="1328"
+                    VPOS="2986"
+                    WIDTH="6"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
