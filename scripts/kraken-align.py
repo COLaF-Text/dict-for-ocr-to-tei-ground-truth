@@ -10,7 +10,8 @@ import unicodedata
 from lxml import etree
 from itertools import cycle
 from unicodedata import normalize
-from kraken.serialization import max_bbox
+from typing import List
+from kraken.serialization import max_bbox, ocr_record
 cmap = cycle([(230, 25, 75, 127),
               (60, 180, 75, 127),
               (255, 225, 25, 127),
@@ -31,7 +32,7 @@ def slugify(value):
     return value
 
 
-def _repl_alto(fname, cuts):
+def _repl_alto(fname, cuts: List[ocr_record], split_on_punct: bool = False):
     with open(fname, 'rb') as fp:
         doc = etree.parse(fp)
         lines = doc.findall('.//{*}TextLine')
@@ -46,7 +47,11 @@ def _repl_alto(fname, cuts):
                 if chld.tag.endswith('SP'):
                     line.remove(chld)
 
-            segments = regex.split(r'(\s+)', "".join(record.prediction))
+            if split_on_punct:
+                segments = regex.split(r'(\s+)', "".join(record.prediction))
+            else:
+                segments = regex.split(r'(\s+|[\.!\?;,:]+)', "".join(record.prediction))
+
             line_offset = 0
             for seg_idx, segment in enumerate(segments):
                 if len(segment) == 0:
@@ -58,13 +63,25 @@ def _repl_alto(fname, cuts):
                 else:
                     seg_cuts = record.cuts[line_offset:line_offset + len(segment)]
                     seg_bbox = max_bbox(seg_cuts)
+                    seg_conf = record.confidences[line_offset:line_offset + len(segment)]
 
                     if not segment.strip():
                         sp = etree.SubElement(line, "SP")
                     else:
                         sp = etree.SubElement(line, "String")
                         sp.set("CONTENT", segment)
-
+                        # <Shape>
+                        #   <Polygon POINTS="{{ segment.boundary|sum(start=[])|join(' ') }}"/>
+                        # </Shape>if record.type == 'baselines':
+                        if record.type == 'baselines':
+                            shape = etree.SubElement(sp, "Shape")
+                            polygon = etree.SubElement(shape, "Polygon")
+                            polygon.set("POINTS", " ".join([
+                                f"{x} {y}"
+                                for (x, y) in record[line_offset:line_offset + len(segment)][1]
+                            ]))
+                        # Confidence
+                        sp.set("WC", f"{sum(seg_conf)/len(seg_conf):.4f}")
                     sp.set("ID", f"tok_{seg_idx_total}")
                     sp.set("HPOS", f"{seg_bbox[0]}")
                     sp.set("VPOS", f"{seg_bbox[1]}")
@@ -99,11 +116,13 @@ def _repl_page(fname, cuts):
 @click.option('-u', '--normalization', show_default=True, type=click.Choice(['NFD', 'NFKD', 'NFC', 'NFKC']),
               default=None,
               help='Ground truth normalization')
+@click.option('-p', '--split-punct', show_default=True, default=False,
+              help='Apply split on punkt')
 @click.option('-o', '--output', type=click.Choice(['xml', 'overlay']),
               show_default=True, default='overlay', help='Output mode. Either page or '
               'alto for xml output, overlay for image overlays.')
 @click.argument('files', nargs=-1)
-def cli(format_type, model, normalization, output, files):
+def cli(format_type, model, normalization, split_punct, output, files):
     """
     A script producing overlays of lines and regions from either ALTO or
     PageXML files or run a model to do the same.
@@ -145,7 +164,7 @@ def cli(format_type, model, normalization, output, files):
             base_image = Image.alpha_composite(im, tmp)
             base_image.save(f'high_{os.path.basename(doc)}_algn.png')
         else:
-            repl_fn(doc, records)
+            repl_fn(doc, records, split_on_punct=split_punct)
         click.secho('\u2713', fg='green')
 
 
